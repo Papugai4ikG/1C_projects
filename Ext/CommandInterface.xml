@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<CommandInterface xmlns="http://v8.1c.ru/8.3/xcf/extrnprops" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.20">
+	<SubsystemsVisibility>
+		<Subsystem name="Subsystem._ДемоУправлениеДоступом">
+			<Visibility>
+				<xr:Common>false</xr:Common>
+			</Visibility>
+		</Subsystem>
+		<Subsystem name="Subsystem._ДемоСинхронизацияДанных">
+			<Visibility>
+				<xr:Common>false</xr:Common>
+			</Visibility>
+		</Subsystem>
+		<Subsystem name="Subsystem._ДемоСервисныеПодсистемы">
+			<Visibility>
+				<xr:Common>false</xr:Common>
+			</Visibility>
+		</Subsystem>
+		<Subsystem name="Subsystem._ДемоИнтегрируемыеПодсистемы">
+			<Visibility>
+				<xr:Common>false</xr:Common>
+			</Visibility>
+		</Subsystem>
+		<Subsystem name="Subsystem._ДемоИнтегрируемыеПодсистемыПродолжение">
+			<Visibility>
+				<xr:Common>false</xr:Common>
+			</Visibility>
+		</Subsystem>
+		<Subsystem name="Subsystem._ДемоБизнесПроцессыИЗадачи">
+			<Visibility>
+				<xr:Common>false</xr:Common>
+			</Visibility>
+		</Subsystem>
+		<Subsystem name="Subsystem._ДемоАнкетирование">
+			<Visibility>
+				<xr:Common>false</xr:Common>
+			</Visibility>
+		</Subsystem>
+		<Subsystem name="Subsystem._ДемоОрганайзер">
+			<Visibility>
+				<xr:Common>false</xr:Common>
+			</Visibility>
+		</Subsystem>
+		<Subsystem name="Subsystem._ДемоНормативноСправочнаяИнформация">
+			<Visibility>
+				<xr:Common>false</xr:Common>
+			</Visibility>
+		</Subsystem>
+		<Subsystem name="Subsystem._ДемоИнструментыРазработчика">
+			<Visibility>
+				<xr:Common>false</xr:Common>
+			</Visibility>
+		</Subsystem>
+		<Subsystem name="Subsystem.АдминистрированиеСервиса">
+			<Visibility>
+				<xr:Common>false</xr:Common>
+			</Visibility>
+		</Subsystem>
+	</SubsystemsVisibility>
+	<SubsystemsOrder>
+		<Subsystem>Subsystem._ДемоУправлениеДоступом</Subsystem>
+		<Subsystem>Subsystem._ДемоСинхронизацияДанных</Subsystem>
+		<Subsystem>Subsystem._ДемоСервисныеПодсистемы</Subsystem>
+		<Subsystem>Subsystem._ДемоИнтегрируемыеПодсистемы</Subsystem>
+		<Subsystem>Subsystem._ДемоИнтегрируемыеПодсистемыПродолжение</Subsystem>
+		<Subsystem>Subsystem._ДемоБизнесПроцессыИЗадачи</Subsystem>
+		<Subsystem>Subsystem._ДемоАнкетирование</Subsystem>
+		<Subsystem>Subsystem._ДемоОрганайзер</Subsystem>
+		<Subsystem>Subsystem._ДемоНормативноСправочнаяИнформация</Subsystem>
+		<Subsystem>Subsystem._ДемоИнструментыРазработчика</Subsystem>
+		<Subsystem>Subsystem.АдминистрированиеСервиса</Subsystem>
+		<Subsystem>Subsystem.Закупки</Subsystem>
+		<Subsystem>Subsystem.Казначейство</Subsystem>
+		<Subsystem>Subsystem.НСИ</Subsystem>
+		<Subsystem>Subsystem.Отчеты</Subsystem>
+		<Subsystem>Subsystem.Продажи</Subsystem>
+		<Subsystem>Subsystem.Администрирование</Subsystem>
+	</SubsystemsOrder>
+</CommandInterface>

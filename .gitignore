@@ -1,0 +1,8 @@
+﻿# Служебные файлы Windows
+Thumbs.db
+Desktop.ini
+
+# Файлы настроек локальных инструментов Git / VS Code
+.vscode/
+.idea/
+*.log
